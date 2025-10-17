@@ -29,8 +29,6 @@ RegisterNumber:
 
 <img width="827" height="460" alt="image" src="https://github.com/user-attachments/assets/def59bc3-a050-40f4-96f0-2f94039bfdbd" />
 
-
-
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
 
